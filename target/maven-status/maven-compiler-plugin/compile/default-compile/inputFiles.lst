@@ -1,0 +1,15 @@
+C:\Users\arsenij\Documents\GitHub\file_upload_app v3\src\main\java\com\example\file_upload_app\config\AppConfig.java
+C:\Users\arsenij\Documents\GitHub\file_upload_app v3\src\main\java\com\example\file_upload_app\config\DatabaseInitializer.java
+C:\Users\arsenij\Documents\GitHub\file_upload_app v3\src\main\java\com\example\file_upload_app\config\SecurityConfig.java
+C:\Users\arsenij\Documents\GitHub\file_upload_app v3\src\main\java\com\example\file_upload_app\controller\AuthController.java
+C:\Users\arsenij\Documents\GitHub\file_upload_app v3\src\main\java\com\example\file_upload_app\controller\FileUploadController.java
+C:\Users\arsenij\Documents\GitHub\file_upload_app v3\src\main\java\com\example\file_upload_app\dto\AuthenticationResponse.java
+C:\Users\arsenij\Documents\GitHub\file_upload_app v3\src\main\java\com\example\file_upload_app\dto\FileMetadataDTO.java
+C:\Users\arsenij\Documents\GitHub\file_upload_app v3\src\main\java\com\example\file_upload_app\entity\File.java
+C:\Users\arsenij\Documents\GitHub\file_upload_app v3\src\main\java\com\example\file_upload_app\entity\User.java
+C:\Users\arsenij\Documents\GitHub\file_upload_app v3\src\main\java\com\example\file_upload_app\FileUploadAppApplication.java
+C:\Users\arsenij\Documents\GitHub\file_upload_app v3\src\main\java\com\example\file_upload_app\repository\FileRepository.java
+C:\Users\arsenij\Documents\GitHub\file_upload_app v3\src\main\java\com\example\file_upload_app\repository\UserRepository.java
+C:\Users\arsenij\Documents\GitHub\file_upload_app v3\src\main\java\com\example\file_upload_app\security\JwtRequestFilter.java
+C:\Users\arsenij\Documents\GitHub\file_upload_app v3\src\main\java\com\example\file_upload_app\security\JwtUtil.java
+C:\Users\arsenij\Documents\GitHub\file_upload_app v3\src\main\java\com\example\file_upload_app\service\CustomUserDetailsService.java
